@@ -42,3 +42,10 @@ The only performance affected by the deshonesty behavior from Thomas High School
 
 ### ***Summary***
 The four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School  have replaced with NaNs.
+
+1. First change is that all students in 9th grade from Thomas High School have gotten NaNs.
+2. The overall reading and math performance of the disrict changes because do not take those results into account.
+3. The math and reading scores increases and NaNs recotrds.
+4. The score of the rest of the high schools change because this high school is not considered in the performance.
+
+![Analysis that shows the student summary with NaNs](Resources/Student_Summary_with_NaNs.png)
