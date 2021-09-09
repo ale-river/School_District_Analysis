@@ -10,10 +10,10 @@ The final results takes into consideration the ``schools_complete.csv`` which th
 
 - How is the district summary affected?
 By looking at the district leel of data, the initial analysis summary shows 15 schools with a total budget of $24.6M with an overall passing % of 65.17.
-[Initial District Summary](Previous_District_Summary.png)
+![Initial District Summary](Previous_District_Summary.png)
 
 However, with the clean and updated data, the overall passing % is 64.9
-[Updated District Summary](Resources/District_Summary.png)
+![Updated District Summary](Resources/District_Summary.png)
 
 
 
